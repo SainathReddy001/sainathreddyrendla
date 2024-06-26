@@ -13,10 +13,10 @@ function Footer() {
     </div>
     <div class="col-md-6">
     <h5 class="con">Follow Me</h5>
-    <a href="#" class="text-black mx-2"><i class="fab fa-facebook"></i></a>
-    <a href="#" class="text-black mx-2"><i class="fab fa-twitter"></i></a>
-    <a href="#" class="text-black mx-2"><i class="fab fa-linkedin"></i></a>
-    <a href="#" class="text-black mx-2"><i class="fab fa-github"></i></a>
+    <a href="/" class="text-black mx-2"><i class="fab fa-facebook"></i></a>
+    <a href="/" class="text-black mx-2"><i class="fab fa-twitter"></i></a>
+    <a href="/" class="text-black mx-2"><i class="fab fa-linkedin"></i></a>
+    <a href="/" class="text-black mx-2"><i class="fab fa-github"></i></a>
     </div>
     {/* <div class="col-md-4">
     <h5 class="con">Back to Top</h5>
