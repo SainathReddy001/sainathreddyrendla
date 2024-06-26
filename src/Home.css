@@ -1,0 +1,69 @@
+.m{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 200px;
+    height:700px;
+    color:whitesmoke;
+    
+}
+.b{
+    background-image: url('../public/images/hloo.jpg');
+    /* height: 800px; */
+    /* width: 1000px; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.about{
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    border-color: aqua;
+    size: 50px;
+    
+
+}
+.aa{
+    margin-top: 10px;
+    padding:5px;
+    border-radius: 10px;
+    
+}
+.aa:hover
+{
+    background-color: rgb(223, 145, 145);
+    transition: all;
+    transition-property: initial;
+    /*transform: rotate(4deg);*/
+    transform-style: flat;
+    transform: scaleX(1.2);
+   /*transform: scaleY(1.2);*/
+}
+footer h5 {
+    margin-bottom: 1em;
+}
+
+footer a {
+    font-size: 1.5em;
+    transition: red 0.3s;
+}
+
+footer a:hover {
+    color: #12191a;
+}
+
+#back-to-top {
+    margin-top: 1em;
+    font-size: 1.5em;
+    transition: background-color 0.3s;
+}
+
+#back-to-top:hover {
+    background-color: #161d1e;
+    color: rgb(129, 31, 31);
+}
+.con{
+    background-color: bisque;
+}

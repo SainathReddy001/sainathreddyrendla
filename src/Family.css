@@ -1,0 +1,38 @@
+.border
+{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+.momphoto1{
+
+    color: black;
+
+}
+.matter{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+    
+}
+.dad
+{
+    text-align: center;
+}
+.dad1{
+    height: 300px;
+    width: 400px;
+    float: right;
+}
+i,{
+    background-color: antiquewhite;
+}
+h5
+{
+    background-color: aqua;
+}
+.pargraph{
+    justify-content:flex-start;
+}

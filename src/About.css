@@ -1,0 +1,20 @@
+.backimg{
+    /* background-image: url(); */ 
+    background-size: contain;
+    background-repeat:no-repeat;
+    font-family: "Times New Roman", Times, serif;
+    width: 98vw;
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:brown;
+    size:80%;
+
+}
+.about1{
+    text-align:start;
+
+}
+    /* .about2,.telugu{
+        color:antiquewhite;
+    } */
